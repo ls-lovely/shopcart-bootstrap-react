@@ -1,0 +1,12 @@
+.counter {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    width: 300px;
+    justify-content: space-between;
+  }
+  
+  .buttons > * {
+    margin-right: 10px;
+  }
+  
